@@ -6,9 +6,10 @@
 name: Ravi Trivedi
 
 # Short bio or description (displayed in the header)
-description: - Manager Quality Assurance 
-             - 310-343-9796 
-             - testerravit@gmail.com
+description: |+
+              Manager Quality Assurance 
+              310-343-9796 
+              testerravit@gmail.com
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/TesterRavi/TesterRavi.github.io/master/images/jekyll-logo.png
