@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tradescape March 2014 – October 2014
+title: Tradescape
 ---
 
 Title: Manager, QA Automation & Performance.

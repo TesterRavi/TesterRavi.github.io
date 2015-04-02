@@ -1,6 +1,6 @@
 ---
 layout: post
-title: J.Hilburn Nov 2013 – March 2014
+title: J.Hilburn
 ---
 
 Title: Manager QA & Release.
