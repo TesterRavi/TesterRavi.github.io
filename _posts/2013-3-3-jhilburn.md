@@ -3,7 +3,7 @@ layout: post
 title: J.Hilburn
 ---
 
-Title: Manager QA & Release.
+Title: Manager, QA & Release.
 
 Duration: Nov 2013 – March 2014.
 
