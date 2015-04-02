@@ -17,7 +17,7 @@ Client: UMG (Universal Music Group)
 #####Responsibilities:
 
 Implemented web based automated testing framework in cloud for automated testing, Framework API works with Ruby, Java, and Python.
-(URL: https://qacloud.io )
+(URL: www.qacloud.io )
 
 Implemented and Managed GitHub repository for script storage & version control.
 
